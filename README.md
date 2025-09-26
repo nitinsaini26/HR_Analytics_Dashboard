@@ -60,5 +60,5 @@
 * Enhanced overall HR analytics and organizational intelligence.
 
 * **Example**
-* Here’s a sample of the dashboard visualization:
-👉 
+* Here’s a screenshot of the dashboard :
+👉 https://github.com/nitinsaini26/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashboard.png
